@@ -1,0 +1,17 @@
+Time Complexity
+> correlation btw input & time taken to solve
+
+check TC
+
+def get_max(s):
+    max = 0
+    for num in range(0, len(s)):
+        if(max < s[num]):
+            max = s[num]
+
+    return max
+
+each line takes one calculation
+for >> array의 길이만큼 연산
+if >> 비교연산 1번 + 대입연산
+2*N = 2N

@@ -1,0 +1,7 @@
+Space Complexity
+> less the space, better the algorithm
+
+점근 표기법
+> 알고리즘의 성능을 수학적으로 표기하는 바법
+> 효율성 평가
+> eg) Big-O > 최악의 성능O(N), Big-Omega > 최선의 성능 Omega(1)
