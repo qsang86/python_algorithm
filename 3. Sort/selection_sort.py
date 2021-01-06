@@ -2,7 +2,7 @@ input = [4, 6, 2, 9, 1]
 input2 = [4, 3, 2, 5, 1, 6, 1]
 
 def selection_sort(array):
-    # 이 부분을 채워보세요!
+  
 
     for i in range(len(array) - 1):
         min = i
@@ -29,7 +29,7 @@ def selection_sort_2(array):
 
 
 selection_sort(input)
-print(input) # [1, 2, 4, 6, 9] 가 되어야 합니다!
+print(input) 
 
 selection_sort_2(input2)
 print(input2)

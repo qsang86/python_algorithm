@@ -1,11 +1,3 @@
-#Hash
-#문자열을 고정된 길이의 데이터
-#dictionary or blockchain 에 사용
-
-#sorting
-##Bubble Sort
-###위치를 n과 n-1을 비교하며 정렬
-
 input = [4, 6, 2, 9, 1]
 
 
@@ -22,4 +14,4 @@ def bubble_sort(array):
 
 
 bubble_sort(input)
-print(input)  # [1, 2, 4, 6, 9] 가 되어야 합니다!
+print(input)  

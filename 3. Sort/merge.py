@@ -10,7 +10,7 @@ def merge_rest(array_a, index_a, output):
     return output
 
 def merge(array1, array2):
-    # 이 부분을 채워보세요!
+ 
     output = []
     index1 = 0
     index2 = 0
@@ -33,4 +33,4 @@ def merge(array1, array2):
 
 
 
-print(merge(array_a, array_b))  # [1, 2, 3, 4, 5, 6, 7, 8] 가 되어야 합니다!
+print(merge(array_a, array_b))  
